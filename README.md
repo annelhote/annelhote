@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Data engineer & software craftswoman at the French ministy of higher education and research.
+
 <!--
 **annelhote/annelhote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
