@@ -17,4 +17,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Speaker
+https://www.libreavous.org/280-parcours-libriste-avec-anne-l-hote-mix-mix-wiklou
+
+29 mars 2026 April - Conférences eclaires - https://media.april.org/video/conferences-eclairs-29-mars-2026/mkv/13-openhikeplanner_l-hote.mkv
+OpenHike planner
+
+FOSDEM x2
+
 -->
