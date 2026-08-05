@@ -25,4 +25,7 @@ OpenHike planner
 
 FOSDEM x2
 
+Author
+publicarions
+
 -->
