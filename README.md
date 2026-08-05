@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Data engineer & software craftswoman at the French ministy of higher education and research.
+Data engineer & software craftswoman @ [French ministry of higher education and research](https://github.com/dataesr/).
+
+Previously @ [ICIJ](https://github.com/ICIJ/) and even before @ [SciencesPo - médialab](https://github.com/medialab/).
 
 <!--
 **annelhote/annelhote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
