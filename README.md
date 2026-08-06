@@ -6,19 +6,19 @@
 * Even before @ [SciencesPo - médialab](https://github.com/medialab/)
 
 📢 Speaker
-* 23/06/2026 - Radio Cause commune, Emission Libre à vous, "Episode 280: Parcours libriste avec Anne L’Hôte - Mix mix - Wiklou" - https://www.libreavous.org/280-parcours-libriste-avec-anne-l-hote-mix-mix-wiklou
-* 29/03/2026 - April, Conférences éclaires - Open Hike planner - https://www.april.org/diaporamas-et-videos-des-conferences-eclairs-du-28-mars-2026 (vidéo: https://media.april.org/video/conferences-eclairs-29-mars-2026/mkv/13-openhikeplanner_l-hote.mkv, présentation: https://www.april.org/files/conferences-eclairs-29-mars-2026/13-open_hike_planner.pdf)
-* 03/02/2024 - FOSDEM, DevRoom Open Research - The French Open Science Monitor: steering the science based on open bibliographic databases - https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3185-the-french-open-science-monitor-steering-the-science-based-on-open-bibliographic-databases/
-* 16/11/2023 - ElasticFR Meetup #88 - Percolation with Elasticsearch to align a repository - https://www.youtube.com/watch?v=D0JApkNlTfQ
-* 08/11/2022 - Open Source Experience, Journée Blue Hats - GROBID : digérer les publications savantes, muscler les communautés scientifiques - (vidéo: https://tube.numerique.gouv.fr/w/hTqorn4WFW1JYxEeYEi6eF, presentation: https://speakerdeck.com/bluehats/grobid-mieux-digerer-les-publications-savantes-pour-muscler-les-communautes-open-source-scientifiques)
-* 01/02/2020 - FOSDEM - Journalists are researchers like any others 2020 - https://archive.fosdem.org/2020/schedule/event/open_research_journalists_are_researchers/
+* 2026/06/23 - Radio Cause commune, Emission Libre à vous, "Episode 280: Parcours libriste avec Anne L’Hôte - Mix mix - Wiklou" - https://www.libreavous.org/280-parcours-libriste-avec-anne-l-hote-mix-mix-wiklou
+* 2026/03/29 - April, Conférences éclaires - Open Hike planner - https://www.april.org/diaporamas-et-videos-des-conferences-eclairs-du-28-mars-2026 (vidéo: https://media.april.org/video/conferences-eclairs-29-mars-2026/mkv/13-openhikeplanner_l-hote.mkv, présentation: https://www.april.org/files/conferences-eclairs-29-mars-2026/13-open_hike_planner.pdf)
+* 2024/02/03 - FOSDEM, DevRoom Open Research - The French Open Science Monitor: steering the science based on open bibliographic databases - https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3185-the-french-open-science-monitor-steering-the-science-based-on-open-bibliographic-databases/
+* 2023/11/16 - ElasticFR Meetup #88 - Percolation with Elasticsearch to align a repository - https://www.youtube.com/watch?v=D0JApkNlTfQ
+* 2022/11/08 - Open Source Experience, Journée Blue Hats - GROBID : digérer les publications savantes, muscler les communautés scientifiques - (vidéo: https://tube.numerique.gouv.fr/w/hTqorn4WFW1JYxEeYEi6eF, presentation: https://speakerdeck.com/bluehats/grobid-mieux-digerer-les-publications-savantes-pour-muscler-les-communautes-open-source-scientifiques)
+* 2020/02/01 - FOSDEM, DevRoom Open Research - Journalists are researchers like any others - https://archive.fosdem.org/2020/schedule/event/open_research_journalists_are_researchers/
 
 ✍️ Author
 [TBD]
 
 🥾 Traveler
-* 2026 - Hexatrek - https://rendezvousalaplage.wordpress.com/
-* 2017 - Pacific Crest Trail - https://pereetfillesurlepct.wordpress.com/
+* 2026 - Hexatrek - https://rendezvousalaplage.wordpress.com
+* 2017 - Pacific Crest Trail - https://pereetfillesurlepct.wordpress.com
 * 2015 - Amérique du sud - http://lameriquedusudvuepar2blondes.wordpress.com
 
 ✉️ Contact: https://mas.to/@annelhote
