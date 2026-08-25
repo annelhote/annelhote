@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-👩‍💻 Data engineer & software craftswoman 
+👩‍💻 Data engineer // software craftswoman // fulltack dev
 * Currently @ [French ministry of higher education and research](https://github.com/dataesr/)
 * Previously @ [ICIJ](https://github.com/ICIJ/)
-* Even before @ [SciencesPo - médialab](https://github.com/medialab/)
+* And even before @ [SciencesPo - médialab](https://github.com/medialab/) and [SciencesPo - Library](https://github.com/SciencesPoDRIS)
 
 📢 Speaker
 * 2026/06/23 - Radio Cause commune, Emission Libre à vous, "Episode 280: Parcours libriste avec Anne L’Hôte - Mix mix - Wiklou" - https://www.libreavous.org/280-parcours-libriste-avec-anne-l-hote-mix-mix-wiklou
@@ -17,9 +17,9 @@
 [TBD]
 
 🥾 Traveler
-* 2026 - Hexatrek - https://rendezvousalaplage.wordpress.com
-* 2017 - Pacific Crest Trail - https://pereetfillesurlepct.wordpress.com
-* 2015 - Amérique du sud - http://lameriquedusudvuepar2blondes.wordpress.com
+* 2026 - Hexatrek Thru hike - https://rendezvousalaplage.wordpress.com
+* 2017 - Pacific Crest Trail Thru hike - https://pereetfillesurlepct.wordpress.com
+* 2015 - South America backpacking - http://lameriquedusudvuepar2blondes.wordpress.com
 
 ✉️ Contact: https://mas.to/@annelhote
 
