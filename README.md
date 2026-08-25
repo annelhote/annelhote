@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👩‍💻 Data engineer // software craftswoman // fulltack dev
+👩‍💻 Data engineer // fullstack dev // software craftswoman
 * Currently @ [French ministry of higher education and research](https://github.com/dataesr/)
 * Previously @ [ICIJ](https://github.com/ICIJ/)
 * And even before @ [SciencesPo - médialab](https://github.com/medialab/) and [SciencesPo - Library](https://github.com/SciencesPoDRIS)
